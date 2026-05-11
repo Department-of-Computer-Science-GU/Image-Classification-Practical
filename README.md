@@ -89,7 +89,7 @@ Then run without an argument:
 ```bash
 python test.py
 ```
-
+You can also use the images download.jpg and download1.jpg which are already present in the directory to test the model after running train.py 
 ---
 
 ## Model Architecture
